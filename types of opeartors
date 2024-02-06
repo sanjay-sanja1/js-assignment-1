@@ -1,0 +1,15 @@
+Arithmetic Operators: These operators are used to perform arithmetic operations on numerical values. Examples include addition (+), subtraction (-), multiplication (*), division (/), modulo (%), and exponentiation (**).
+
+Assignment Operators: Assignment operators are used to assign values to variables. They include the simple assignment operator (=) as well as compound assignment operators like +=, -=, *=, /=, etc., which combine assignment with arithmetic operations.
+
+Comparison Operators: Comparison operators are used to compare two values and return a Boolean result (true or false). Examples include equal to (== and ===), not equal to (!= and !==), greater than (>), less than (<), greater than or equal to (>=), and less than or equal to (<=).
+
+Logical Operators: Logical operators are used to combine or manipulate Boolean values. They include logical AND (&&), logical OR (||), and logical NOT (!). They are often used to make decisions based on multiple conditions.
+
+Unary Operators: Unary operators act on a single operand. Examples include the unary plus (+) and unary minus (-) used to convert operands to numbers, the increment (++) and decrement (--) operators used to increment or decrement values by one, and the logical NOT (!) operator used to negate a Boolean value.
+
+Bitwise Operators: Bitwise operators perform operations at the binary level, manipulating individual bits of an operand. They include bitwise AND (&), bitwise OR (|), bitwise XOR (^), bitwise NOT (~), left shift (<<), and right shift (>>). They are often used in low-level programming or when dealing with binary data.
+
+String Operators: String operators include concatenation (+), which is used to join two strings together.
+
+Conditional (Ternary) Operator: The conditional operator (? :) is a ternary operator that evaluates a condition and returns one of two values based on whether the condition is true or false. It is a shorthand for an if-else statement.
