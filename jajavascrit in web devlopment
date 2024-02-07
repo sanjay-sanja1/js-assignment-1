@@ -1,0 +1,7 @@
+JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. 
+  Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.
+The earliest incarnations of JavaScript were developed in the late 1990s for the Netscape Navigator Web browser. At the time, 
+  Web pages were static, offering little user interaction beyond clicking links and loading new pages. For the first time, JavaScript enabled animation, adaptive content and form validation on the page.
+For many years, JavaScript only functioned on a limited number of browsers. Microsoft's Internet Explorer, the largest browser base, did not support JavaScript until much later.
+  Instead, Microsoft created its own proprietary client-side script called JScript. In the early days of Web development, programmers who wished to create dynamic websites were often forced to choose one browser family over the other. This was less than ideal because it made the Internet less universally accessible.
+JavaScript did not become standardized and widely adopted until 1999. Even after standardization, browser compatibility remained an issue for over a decade.
