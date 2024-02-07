@@ -1,0 +1,7 @@
+ Clear and descriptive variable names make your code easier to read and understand for yourself and others who might work with or maintain it in the future. 
+When someone else reads your code, they should be able to quickly grasp the purpose and context of each variable without needing to decipher cryptic or ambiguous names.
+Well-named variables reduce the cognitive load required to comprehend the code, making it easier to maintain and modify. When you revisit your code after some time, 
+descriptive variable names serve as helpful reminders of the intended functionality, 
+reducing the chances of introducing bugs while making modifications.
+Descriptive variable names facilitate collaboration among team members by providing clear communication about the purpose and usage of each variable.
+When working in a team, meaningful variable names help ensure everyone is on the same page and can easily understand each other's code.
