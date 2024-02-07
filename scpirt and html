@@ -1,0 +1,6 @@
+JavaScript and HTML are both essential components of web development, but they serve different purposes and have distinct characteristics. 
+Here are the key differences between JavaScript and HTML, along with examples of situations where you would use each:
+JavaScript is a scripting language that adds interactivity and dynamic behavior to web pages.
+It is used to manipulate the content of HTML elements, handle user interactions, validate form data, create animations, 
+make asynchronous requests to servers (AJAX), and much more.
+JavaScript code is executed by the web browser's JavaScript engine.
